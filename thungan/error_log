@@ -1,0 +1,151 @@
+[24-Nov-2022 23:51:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[24-Nov-2022 23:51:51 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1692
+[24-Nov-2022 23:51:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: discount in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1721
+[24-Nov-2022 23:51:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1722
+[24-Nov-2022 23:51:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vou in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1723
+[24-Nov-2022 23:51:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1728
+[24-Nov-2022 23:51:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/index.php on line 166
+[24-Nov-2022 23:51:54 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1835
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dh in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1053
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/history.php on line 143
+[24-Nov-2022 23:51:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/history.php on line 162
+[24-Nov-2022 23:51:57 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1835
+[24-Nov-2022 23:51:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[24-Nov-2022 23:51:57 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1692
+[24-Nov-2022 23:51:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: discount in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1721
+[24-Nov-2022 23:51:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1722
+[24-Nov-2022 23:51:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vou in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1723
+[24-Nov-2022 23:51:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1728
+[24-Nov-2022 23:51:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/index.php on line 166
+[24-Nov-2022 23:51:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[24-Nov-2022 23:51:59 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1692
+[24-Nov-2022 23:51:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: discount in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1721
+[24-Nov-2022 23:51:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1722
+[24-Nov-2022 23:51:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vou in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1723
+[24-Nov-2022 23:51:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1728
+[24-Nov-2022 23:51:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[24-Nov-2022 23:51:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: discount in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1721
+[24-Nov-2022 23:51:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1722
+[24-Nov-2022 23:51:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vou in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1723
+[24-Nov-2022 23:51:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1728
+[24-Nov-2022 23:51:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/index.php on line 166
+[24-Nov-2022 23:52:26 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1835
+[26-Nov-2022 12:36:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[26-Nov-2022 12:36:56 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[26-Nov-2022 12:36:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/index.php on line 166
+[26-Nov-2022 12:37:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[26-Nov-2022 12:37:02 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[26-Nov-2022 12:37:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[26-Nov-2022 12:37:02 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[26-Nov-2022 12:37:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/index.php on line 166
+[26-Nov-2022 12:37:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[26-Nov-2022 12:37:03 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[26-Nov-2022 12:37:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[26-Nov-2022 12:37:03 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[26-Nov-2022 12:37:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/index.php on line 166
+[26-Nov-2022 12:37:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[26-Nov-2022 12:37:04 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[26-Nov-2022 12:37:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[26-Nov-2022 12:37:04 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[26-Nov-2022 12:37:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/index.php on line 166
+[26-Nov-2022 12:37:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[26-Nov-2022 12:37:11 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[26-Nov-2022 12:37:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[26-Nov-2022 12:37:33 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1758
+[26-Nov-2022 12:37:33 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1787
+[26-Nov-2022 12:37:33 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[26-Nov-2022 12:37:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/index.php on line 166
+[26-Nov-2022 12:37:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: btn in /home/dkstoref/public_html/thungan/confirm_rq_shipper.php on line 147
+[26-Nov-2022 12:37:46 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1901
+[26-Nov-2022 12:37:48 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1901
+[26-Nov-2022 13:51:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[26-Nov-2022 13:51:08 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1758
+[26-Nov-2022 13:51:08 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1787
+[26-Nov-2022 13:51:08 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[26-Nov-2022 13:51:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/index.php on line 166
+[26-Nov-2022 13:51:09 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1901
+[26-Nov-2022 13:51:10 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1901
+[29-Nov-2022 20:27:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[29-Nov-2022 20:27:32 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1758
+[29-Nov-2022 20:27:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: discount in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1787
+[29-Nov-2022 20:27:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1788
+[29-Nov-2022 20:27:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vou in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[29-Nov-2022 20:27:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1794
+[29-Nov-2022 20:27:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/index.php on line 166
+[29-Nov-2022 20:28:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: btn in /home/dkstoref/public_html/thungan/confirm_rq_shipper.php on line 147
+[29-Nov-2022 20:28:14 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1901
+[29-Nov-2022 21:04:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[29-Nov-2022 21:04:27 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1758
+[29-Nov-2022 21:04:27 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1787
+[29-Nov-2022 21:04:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1788
+[29-Nov-2022 21:04:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vou in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[29-Nov-2022 21:04:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1794
+[29-Nov-2022 21:04:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/index.php on line 166
+[29-Nov-2022 21:04:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[29-Nov-2022 21:04:29 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1758
+[29-Nov-2022 21:04:29 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1787
+[29-Nov-2022 21:04:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1788
+[29-Nov-2022 21:04:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vou in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[29-Nov-2022 21:04:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1794
+[29-Nov-2022 21:04:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[29-Nov-2022 21:04:29 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1787
+[29-Nov-2022 21:04:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1788
+[29-Nov-2022 21:04:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vou in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[29-Nov-2022 21:04:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1794
+[29-Nov-2022 21:04:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/index.php on line 166
+[29-Nov-2022 21:04:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[29-Nov-2022 21:04:32 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1787
+[29-Nov-2022 21:04:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1788
+[29-Nov-2022 21:04:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vou in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[29-Nov-2022 21:04:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1794
+[29-Nov-2022 21:04:32 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/thungan/index.php on line 222
+[29-Nov-2022 21:04:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/thungan/index.php on line 223
+[29-Nov-2022 21:04:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[29-Nov-2022 21:04:41 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1758
+[29-Nov-2022 21:04:41 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1787
+[29-Nov-2022 21:04:41 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[29-Nov-2022 21:04:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/index.php on line 166
+[29-Nov-2022 21:04:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/history.php on line 143
+[29-Nov-2022 21:04:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/history.php on line 162
+[29-Nov-2022 21:04:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/history.php on line 143
+[29-Nov-2022 21:04:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/history.php on line 162
+[29-Nov-2022 21:08:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[29-Nov-2022 21:08:54 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1758
+[29-Nov-2022 21:08:54 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1787
+[29-Nov-2022 21:08:54 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[29-Nov-2022 21:08:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/index.php on line 166
+[11-Dec-2022 17:02:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: ncc in /home/dkstoref/public_html/thungan/index.php on line 134
+[11-Dec-2022 17:02:36 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1758
+[11-Dec-2022 17:02:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: discount in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1787
+[11-Dec-2022 17:02:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1788
+[11-Dec-2022 17:02:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vou in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1789
+[11-Dec-2022 17:02:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: voucher in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1794
+[11-Dec-2022 17:02:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: button in /home/dkstoref/public_html/thungan/index.php on line 166
+[11-Dec-2022 17:02:38 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dkstoref/public_html/php/readAPI/conectAPI.php on line 1901
